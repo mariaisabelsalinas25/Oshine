@@ -1,0 +1,146 @@
+body{
+	font-family:"Segoe UI";
+	font-size: 14 px;
+	color: #808080;
+}
+
+header{
+	background-color: #000;
+	padding: 20 px 0;
+	
+}
+#home{
+	background-image: url( "../img/hero-home.jpg");
+	background-size: cover;
+	background-position: top center;
+	padding: 10% 0;
+	color: #FFFFFF;
+}	
+#home h1{
+	 font-size: 60px;
+	font-weight: 300;
+	
+		
+}
+
+#home h1 span{
+	display: block;
+	
+}
+#home p{
+	font-size: 18px;	
+}
+
+.btn-light{
+	border-radius: 0;
+	padding: 15px 40px;
+	
+}
+.btn{
+	text-transform: uppercase;
+	font-size: 13px;
+	letter-spacing: 1px;
+}
+
+#quality{
+	background-color: #F2F2F2;
+	padding: 80px 0;
+}
+.titulo{
+	font-color: #222222;
+	font-weight:400;
+	text-align: center
+	
+}
+.subtitulo{
+	color: #808080;
+	font-style: italic;
+	font-weight: 400;
+	font-size: 12px;
+	text-align: center;
+	padding: 20px 0;
+}
+
+#quality h5{
+	font-size: 11px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 700;
+	color: #000;
+}
+#quality p{
+	font-size: 13px;
+}
+#works{
+	background-color: #FFFFFF;
+}
+#works img{
+padding: 10px 0;
+}
+
+#works{
+padding: 20px 0;
+}
+
+.btn-green{
+	background-color:#00D092;
+	border-color:transparent;
+	color:#FFFFFF;
+	font-size: 12px;
+	border-radius: 0;
+	padding: 20px 40px;
+	}
+.btn-green:hover{
+	background-color: #000000;
+	color: #FFFFFF;
+}
+#do h5{
+	font-size: 11px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align:left;
+	font-weight: 700;
+	color: #000;
+	padding: 50px 0;
+
+}
+
+#slides .tag{
+	font-size: 16px;
+	font-style: italic;
+}
+
+
+
+#slides .sub{
+	font-size: 20px;
+}
+#slides h1{
+	font-size: 60px;
+	font-weight: 300;
+	margin-bottom: 45px;
+}
+#slides .carousel-item img{
+	height: 640px;
+}
+
+#slides .carousel-caption{
+	top: 20%;
+}
+.slide-overlay{
+	position:absolute;
+	top:0;
+	left:0;
+	width:50%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.55);
+}
+
+
+
+footer{
+	background-color: #f2f2f2;
+	
+}
+
